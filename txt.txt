@@ -1,0 +1,25 @@
+startDate - unix timestamp in milliseconds
+
+distance - distance travelled in metres
+
+duration - duration travelled in seconds
+
+averageSpeed - average speed for the day in km/h
+
+topSpeed - top speed for the day in km/h
+
+fuelCost - cost of fuel consumed in the day in rupees
+
+fuelConsumed - amount of fuel consumed in the day in litres
+
+score - riding score for the day
+
+- Implement Navigation to switch between Home Page and Range Selection Page
+- Implement Top Tabs to create the Range Selection UI
+- Integrate the provided JSON data to show stats.
+- The range picker should be entirely functional.
+- Don’t be limited by the design. If you find any improvements, feel free to implement them.
+
+https://www.figma.com/design/fi23CQRXFPQ8TIkQJ8FdjJ/Ajjas-Assignment?node-id=1-2
+
+https://ajjas.notion.site/Software-Development-Engineer-989277aaa90f44e2bd62bd6e49d5ff7c
