@@ -102,6 +102,7 @@ const costOfPetrolRupeesPerLitter = 102
 
 
 
+app.use("/", (req, res) => res.send("Express on Vercel"));
 
 
 app.use("/api", require("./routes/statisticsRoutes"));
