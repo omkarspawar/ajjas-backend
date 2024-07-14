@@ -97,14 +97,6 @@ const costOfPetrolRupeesPerLitter = 102
 //     console.error('Error reading the file:', err);
 // }
 
-
-
-
-
-
-app.use("/", (req, res) => res.send("Express on Vercel"));
-
-
 app.use("/api", require("./routes/statisticsRoutes"));
 
 
